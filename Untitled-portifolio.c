@@ -2,8 +2,8 @@
 
 int main(){
    
-    //declaração de variáveis 	
-    int v[3];
+	//declaração de variáveis 	
+	int v[3];
 	double i;
 	
 	//entrada de dados
